@@ -1,0 +1,22 @@
+{
+  "name": "curso-de-unit-testing-con-jest-en-react",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhoguer/Curso-de-Unit-Testing-con-Jest-en-React.git"
+  },
+  "author": "Jhon Guerrero <jhoguer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhoguer/Curso-de-Unit-Testing-con-Jest-en-React/issues"
+  },
+  "homepage": "https://github.com/jhoguer/Curso-de-Unit-Testing-con-Jest-en-React#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
